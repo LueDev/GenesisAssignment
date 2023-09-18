@@ -1,0 +1,1 @@
+I was able to finish most of the assignment except the successful sending of data due to the JS submission handler clashing with the express.post function. With additional time, I can crank out the bug, but time is up for the hiring process. I will continue this on my own time to understand what was missing. 
